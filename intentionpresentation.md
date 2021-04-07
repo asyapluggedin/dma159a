@@ -1,8 +1,8 @@
-Intention Presentation
+#Intention Presentation
 
 
 
-Direction #1: Save Frys .com (???)
+###Direction #1: Save Frys .com (???)
 
 – Carlson Baker Arts
 – Eva + Franco Mattes NikePlatz
@@ -18,7 +18,7 @@ resistance to the bezos-ization of the world
 shoplifting??
 
 
-Direction #2: Branding / UIs (design as art)
+###Direction #2: Branding / UIs (design as art)
 
 – Lauren McCarthy
 – Toby Shorin
@@ -27,8 +27,8 @@ Direction #2: Branding / UIs (design as art)
 – Jenny Holzer
 
 
-potential 
-#3 cute memento mori paintings / prints (not interactive sigh)
+####potential 
+#####3 cute memento mori paintings / prints (not interactive sigh)
 
 
 	⁃	death
