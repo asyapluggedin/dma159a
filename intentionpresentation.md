@@ -1,8 +1,8 @@
-#Intention Presentation
+# Intention Presentation
 
 
 
-###Direction #1: Save Frys .com (???)
+### Direction #1: Save Frys .com (???)
 
 – Carlson Baker Arts
 – Eva + Franco Mattes NikePlatz
@@ -18,25 +18,26 @@ resistance to the bezos-ization of the world
 shoplifting??
 
 
-###Direction #2: Branding / UIs (design as art)
+### Direction #2: Branding / UIs (design as art)
 
-– Lauren McCarthy
-– Toby Shorin
-– My work with Nootreats
-– Benjamin Bratton and Metahaven
-– Jenny Holzer
-
-
-####potential 
-#####3 cute memento mori paintings / prints (not interactive sigh)
+* Lauren McCarthy
+* Toby Shorin
+* My work with Nootreats
+* Benjamin Bratton and Metahaven
+* Jenny Holzer
 
 
-	⁃	death
-	⁃	eschaton
-	⁃	simulation theory
-	⁃	escape / wake up call
-	⁃	how to break out, hack out: die
+##### potential 
+##### 3 cute memento mori paintings / prints (not interactive sigh)
 
+
+* death
+* eschaton
+* simulation theory
+* escape / wake up call
+* how to break out, hack out: die
+
+##### misc 
 history of death based stuff
 lucy mcrae
 im good at performance and live stuff
