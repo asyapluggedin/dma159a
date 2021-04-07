@@ -6,11 +6,11 @@
 
 [SaveFrys.Com](http://savefrys.com)
 
-– Carlson Baker Arts
-– Eva + Franco Mattes NikePlatz
-– Sunset Foot Clinic 
-– Machine Project Sunset Foot Clinic Website
-– Tom Sachs McDonalds
+* Carlson Baker Arts
+* Eva + Franco Mattes NikePlatz
+* Sunset Foot Clinic 
+* Machine Project Sunset Foot Clinic Website
+* Tom Sachs McDonalds
 
 https://0100101110101101.org/nike-ground/ 
 
