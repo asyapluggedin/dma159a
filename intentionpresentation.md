@@ -13,7 +13,9 @@
 
 
 
+![discord server](frysdiscord.png)
 - spatialized ecommerce experience
+- sonar or tilde.town
 - alternative to physical shopping
 - - resistance to the bezos-ization of the world
 shoplifting??
