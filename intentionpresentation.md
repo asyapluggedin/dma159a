@@ -7,16 +7,15 @@
 [SaveFrys.Com](http://savefrys.com)
 
 * Carlson Baker Arts
-* Eva + Franco Mattes NikePlatz
-* Sunset Foot Clinic 
-* Machine Project Sunset Foot Clinic Website
+* Eva + Franco Mattes [https://0100101110101101.org/nike-ground/] (NikePlatz)
+* [http://sunsetfootclinicsign.com/] (Machine Project Sunset Foot Clinic)
 * Tom Sachs McDonalds
 
-https://0100101110101101.org/nike-ground/ 
 
-spatialized ecommerce experience
-alternative to physical shopping
-resistance to the bezos-ization of the world
+
+- spatialized ecommerce experience
+- alternative to physical shopping
+- - resistance to the bezos-ization of the world
 shoplifting??
 
 
@@ -40,12 +39,11 @@ shoplifting??
 * how to break out, hack out: die
 
 ##### misc 
-history of death based stuff
-lucy mcrae
-im good at performance and live stuff
-also i loved rpgs
-pedagogy as art practice
+* history of death based stuff
+* lucy mcrae
+* im good at performance and live stuff
+* also i loved rpgs
+* pedagogy as art practice
 
-something to keep hi res files of
-post on all the social medias and never lose
+i want my capstone to become something to keep hi res files of. to post on all the social medias and never lose
 
