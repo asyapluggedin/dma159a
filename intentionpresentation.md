@@ -49,3 +49,9 @@ shoplifting??
 
 i want my capstone to become something to keep hi res files of. to post on all the social medias and never lose
 
+####
+* frys: represents a lot of meaning and even personal aesthetic politics (brutalist web design, web 1.0)
+* archiving and cultural preservation vs hacking and transformation adbusters-style
+* https://www.queeringthemap.com/
+* collective grief and providing a space for that
+
