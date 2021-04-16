@@ -6,6 +6,8 @@ Chandler McWilliams (he/him) to Everyone (11:32)
 https://airtable.com/
 https://modelviewer.dev/
 
+https://zachblas.info/works/queer-technologies/
+
 
 
 11:03:24 That brilliant Thank you, I appreciate that a lot of cool.
