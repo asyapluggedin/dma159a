@@ -10,3 +10,8 @@ i put a website memorial of that sign in my refetences in my w2 presentation
 
 Chandler McWilliams (he/him) to Everyone (16:36)
 https://www.upress.umn.edu/book-division/books/otaku
+
+Chandler McWilliams (he/him) to Everyone (16:46)
+https://webbpickersgill.com/wp-content/uploads/adventuregametools-cyoabranches.jpg
+
+https://docs.google.com/spreadsheets/d/1x14W80vztgnH0HwNY4u1PPuXEYszA0R_n7eURLVfh7c/edit#gid=0
