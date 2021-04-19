@@ -7,13 +7,13 @@
 [SaveFrys.Com](http://savefrys.com)
 
 * Carlson Baker Arts 
-* Eva + Franco Mattes [https://0100101110101101.org/nike-ground/] (NikePlatz) ![nikeplatz](images/nikeplatz.jpg | width=250)
-* [http://sunsetfootclinicsign.com/] (Machine Project Sunset Foot Clinic) ![footclinic](images/footclinicsign.png | width=250)
+* Eva + Franco Mattes [https://0100101110101101.org/nike-ground/] (NikePlatz) ![nikeplatz](images/nikeplatz.jpg){width=250}
+* [http://sunsetfootclinicsign.com/] (Machine Project Sunset Foot Clinic) ![footclinic](images/footclinicsign.png)
 * Tom Sachs McDonalds
 
 
 
-![discord server](images/frysdiscord.png | width=250)
+![discord server](images/frysdiscord.png)
 - spatialized ecommerce experience
 - sonar or tilde.town
 - alternative to physical shopping
