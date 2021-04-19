@@ -1,0 +1,44 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color:#000;
+  color:#fff;
+  max-width:750px;
+}
+
+h1 {
+  font-style: italic;
+  color: indianred;
+}
+
+h2{
+  font-style: italic;
+  color: red;
+}
+
+ul{
+  color:#ffe8fc;
+}
+
+a {
+  color:#82e5ff;
+}
+
+marquee{
+  border:solid;
+  border-color:indianred;
+}
+
+blockquote{
+  font-family: Garamond, serif;
+  font-style:italic;
+}
+#hashExpand {
+    display: none;
+}
+
+#hashExpand:target {
+    display: block;
+}
