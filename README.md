@@ -2,7 +2,7 @@
 
 This is the repo for my [senior project focusing in interactivity and games](http://classes.dma.ucla.edu/Spring21/159A/)  at [UCLA Design `|` Media Arts](dma.ucla.edu)
 
-#####[Assignment List on Class Website](http://classes.dma.ucla.edu/Spring21/159A/schedule)
+##### [Assignment List on Class Website](http://classes.dma.ucla.edu/Spring21/159A/schedule)
 
 * [Intention Presentation](4-1-intentionpresentation)
 * [Meditation 1: Inquiry](4-5-meditation1.md)
