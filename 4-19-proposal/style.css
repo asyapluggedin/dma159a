@@ -3,7 +3,7 @@
 body {
   font-family: arial, sans-serif;
   margin: 2em;
-  background-color:#b3b3b3;
+  background-color:# b3b3b3;
   color:#000;
   max-width:750px;
     padding-left:60px;
@@ -15,7 +15,7 @@ img
 }
 h1 {
   font-style: italic;
-  color: white;
+  color: #fff;
 }
 
 h2{
@@ -25,11 +25,11 @@ h2{
 }
 
 ul{
-  color:#ffe8fc;
+  color:#ff8f8f;
 }
 
 a {
-  color:#82e5ff;
+  color:#2baeff;
 }
 
 marquee{
